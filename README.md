@@ -7,7 +7,7 @@ This project is a comprehensive **Power BI dashboard** analyzing BMW car sales, 
 
 ##  Dashboard Screenshots
 
-![Main KPI Dashboard](https://github.com/PUNISHER9354/BMW-SALES-DASHBOARD/blob/main/BMW%20DASHBOARD%20SCREENSHOTS/BMW%20DASBOARD%20PAGE%201.png)
+![Main KPI Dashboard](BMW DASHBOARD SCREENSHOTS/BMW DASBOARD PAGE 1.png)
 ![Sales Classification & Model Analysis](https://github.com/PUNISHER9354/BMW-SALES-DASHBOARD/blob/main/BMW%20DASBOARD%20PAGE%202.png)
 ![Region-wise Sales Insights](https://github.com/PUNISHER9354/BMW-SALES-DASHBOARD/blob/main/BMW%20DASBOARD%20PAGE%203.png)
 ![Tech Specs & Trend Analytics](https://github.com/PUNISHER9354/BMW-SALES-DASHBOARD/blob/main/BMW%20DASBOARD%20PAGE%204.png)
